@@ -1,6 +1,6 @@
+# 🎳 Bowling Challenge (2018) 🎳
 
-🎳 Bowling Challenge 🎳
-=======================
+This is my 2018 attempt at the Makers Bowling Challenge in JS. The code style differs greatly to that used in modern JS, and so shouldn't be used as an example. I've uploaded it here for posterity.
 
 Welcome to John's Bowling Challenge
 
@@ -21,7 +21,8 @@ I split the game into two classes: the scorecard, and a frame class. The scoreca
 ## Future 🎳
 
 There are a number of features left to implement, if I had enough time.
-* The game should prevent you from entering illegal rolls. As it currently stands, any number can be entered into the system at any time.
-* An updated UI to show all rolls so far, rather than just an array of the scores.
-* The ability to reset the game without creating a new scorecard or refreshing the page.
-* Making the UI more aesthetically pleasing.
+
+- The game should prevent you from entering illegal rolls. As it currently stands, any number can be entered into the system at any time.
+- An updated UI to show all rolls so far, rather than just an array of the scores.
+- The ability to reset the game without creating a new scorecard or refreshing the page.
+- Making the UI more aesthetically pleasing.
